@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ### 👋 Hi there!<br><br>🔭 **I’m currently working on...**<br>Building a robust, end-to-end microservices architecture for a multi-vendor platform. This project utilizes:<br>* **Frontend:** React<br>* **Backend:** Node.js (Express) and Java<br>* **Databases:** SQL, PostgreSQL, and MongoDB (use-case specific)<br><br>💡 **Seeking Collaborators**<br>I'm looking for passionate engineers to contribute, share ideas, and help evolve this product.<br><br>🚀 **Career Trajectory**<br>I am actively transitioning from a Senior Full-Stack Developer role to a **Full-Stack Architect**, leveraging my industry experience in complex system design.<br><br>🤝 **Open for Discussion**<br>Feel free to reach out for discussions on **system architecture, complex technical challenges, or career growth.** I'm happy to share insights on problems I've faced and the solutions I implemented.<br><br>> 🛠️ My philosophy: I break things on purpose because it’s the fastest way to understand how they *really* work.
 
 
